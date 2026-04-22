@@ -29,9 +29,9 @@ A Java Swing desktop application that models a hierarchical football management 
 
 ## Project Structure
 src/
-├── model/ # Data entities (League, Club, Amplua, Footballer, AnyData)
-├── view/ # GUI components (Dialogs, MainGui, Event handling)
-└── test/ # Test classes
+- model/ # Data entities (League, Club, Amplua, Footballer, AnyData)
+- view/ # GUI components (Dialogs, MainGui, Event handling)
+- test/ # Test classes
 
 ## Key Classes
 
